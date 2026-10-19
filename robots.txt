@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rafttone.github.io/kolotiy-photo/sitemap.xml
