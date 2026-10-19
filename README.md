@@ -2,7 +2,7 @@
 
 Portfolio site for photographer **Ilya Kolotiy** ([@kolotiy_ilya](https://www.instagram.com/kolotiy_ilya/), [Behance](https://www.behance.net/kolotiyphotography)).
 
-- Photographs: © Ilya Kolotiy. All rights reserved. They are published here with his involvement and are not licensed for reuse.
+- Photographs: © Ilya Kolotiy. All rights reserved. Not licensed for reuse.
 - Site: built by RaftTone. Plain HTML, CSS and a little JavaScript, no build step.
 - Live (GitHub Pages): https://rafttone.github.io/kolotiy-photo/
 
